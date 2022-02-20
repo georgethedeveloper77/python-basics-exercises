@@ -1,3 +1,5 @@
+# Python<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="400" height="400">
+
 # Exercise Solutions for [Real Python's *"Python Basics: A Practical Introduction to Python 3"*](https://realpython.com/products/python-basics-book/) Book
 
 In this code repository you find the solutions and sample implementations for the solutions and challenges posed in our [Python Basics](https://realpython.com/products/python-basics-book/) book. All solutions and sample files are ordered by chapter so you can quickly navigate to the code you're looking for.
@@ -15,7 +17,7 @@ In most cases, the solutions presented here represent just one way out of many t
 If you have [`git` installed](https://realpython.com/python-git-github-intro/), the easiest way to access these files is to clone the repository to the directory of your choice:
 
 ```console
-$ python-basics-exercises.git
+python-basics-exercises.git
 ```
 
 ### Without `git`
